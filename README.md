@@ -16,6 +16,7 @@
     <li>Manage products:
       <ul>
         <li>Add, update, and delete products.</li>
+        <li>Upload and manage product images.</li>
       </ul>
     </li>
   </ul>
