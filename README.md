@@ -28,7 +28,6 @@
       Your browser does not support the video tag.
     </video>
   </p>
-  <p style="text-align: center;"><em>📌 Replace <code>VIDEO_ID</code> with the unique ID of your video.</em></p>
   
   <h2 style="color: #555;">🛠️ Features</h2>
   <ul>
@@ -59,7 +58,7 @@
   <h2 style="color: #555;">🚀 How to Run the Application</h2>
   <ol>
     <li>Clone the repository:
-      <pre style="background: #f4f4f4; padding: 10px; border-radius: 5px; border: 1px solid #ddd;">git clone https://github.com/yourusername/ClothingShopManagementSystem.git</pre>
+      <pre style="background: #f4f4f4; padding: 10px; border-radius: 5px; border: 1px solid #ddd;">https://github.com/asansubodha/ClothingShopManagementSystem01.git</pre>
     </li>
     <li>Open the project in <strong>Visual Studio</strong>.</li>
     <li>Update the database connection string in the <code>App.config</code> file.</li>
@@ -69,9 +68,8 @@
   <h2 style="color: #555;">🎨 Figma Prototype</h2>
   <p>
     Check out the Figma design prototype for the application's UI/UX:
-    <a href="https://www.figma.com/file/YourPrototypeLink" target="_blank" style="color: #0066cc; text-decoration: none;">🔗 Figma Prototype</a>
+    <a href="https://www.figma.com/proto/nDuSd3yJKVdFMyAC9Hl5f0/Clothing-Store-Syteme?node-id=0-1&t=sReVPQx9qoeHUPzx-1" target="_blank" style="color: #0066cc; text-decoration: none;">🔗 Figma Prototype</a>
   </p>
-  <p><em>📌 Replace <code>https://www.figma.com/proto/nDuSd3yJKVdFMyAC9Hl5f0/Clothing-Store-Syteme?node-id=0-1&t=sReVPQx9qoeHUPzx-1</code> with the actual link to your Figma design.</em></p>
   
   <h2 style="color: #555;">🤝 Contributions</h2>
   <p>
