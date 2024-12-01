@@ -1,4 +1,3 @@
-# ClothingShopManagementSystem
 <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0 auto; max-width: 800px;">
   <h1 style="color: #333; text-align: center;">Clothing Shop Management System</h1>
   
@@ -72,6 +71,7 @@
     <a href="https://www.figma.com/file/YourPrototypeLink" target="_blank" style="color: #0066cc; text-decoration: none;">🔗 Figma Prototype</a>
   </p>
   <p><em>📌 Replace <code>YourPrototypeLink</code> with the actual link to your Figma design.</em></p>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/nDuSd3yJKVdFMyAC9Hl5f0/Clothing-Store-Syteme?node-id=0-1&embed-host=share" allowfullscreen></iframe>
   
   <h2 style="color: #555;">🤝 Contributions</h2>
   <p>
