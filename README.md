@@ -23,9 +23,10 @@
   <h2 style="color: #555;">🎥 Demo</h2>
   <p>Here’s a quick demo of the application in action:</p>
   <p style="text-align: center;">
-    <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
-      <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Watch the video" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-    </a>
+     <video controls style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+      <source src="./ClothingShopManagementSystem.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </p>
   <p style="text-align: center;"><em>📌 Replace <code>VIDEO_ID</code> with the unique ID of your video.</em></p>
   
@@ -70,12 +71,11 @@
     Check out the Figma design prototype for the application's UI/UX:
     <a href="https://www.figma.com/file/YourPrototypeLink" target="_blank" style="color: #0066cc; text-decoration: none;">🔗 Figma Prototype</a>
   </p>
-  <p><em>📌 Replace <code>YourPrototypeLink</code> with the actual link to your Figma design.</em></p>
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/nDuSd3yJKVdFMyAC9Hl5f0/Clothing-Store-Syteme?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+  <p><em>📌 Replace <code>https://www.figma.com/proto/nDuSd3yJKVdFMyAC9Hl5f0/Clothing-Store-Syteme?node-id=0-1&t=sReVPQx9qoeHUPzx-1</code> with the actual link to your Figma design.</em></p>
   
   <h2 style="color: #555;">🤝 Contributions</h2>
   <p>
     Feel free to contribute to this project by opening a pull request or reporting issues in the 
-    <a href="https://github.com/yourusername/ClothingShopManagementSystem/issues" target="_blank" style="color: #0066cc; text-decoration: none;">Issues</a> section.
+    <a href="https://github.com/asansubodha/ClothingShopManagementSystem01/issues" target="_blank" style="color: #0066cc; text-decoration: none;">Issues</a> section.
   </p>
 </div>
