@@ -23,10 +23,9 @@
   <h2 style="color: #555;">🎥 Demo</h2>
   <p>Here’s a quick demo of the application in action:</p>
   <p style="text-align: center;">
-     <video controls style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
-      <source src="./ClothingShopManagementSystem.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+     <a href="https://drive.google.com/file/d/1EHvuBV_0jhOhKL85herrYv_gZOasN4Ze/view?usp=sharing" target="_blank">
+      <img src="./ClothingShop.png" alt="Watch the video" style="max-width: 100%; border: 1px solid #ddd; border-radius: 8px;">
+    </a>
   </p>
   
   <h2 style="color: #555;">🛠️ Features</h2>
